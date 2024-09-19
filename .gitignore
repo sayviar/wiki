@@ -1,0 +1,20 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+cs50env/
+
+# Django specific
+*.log
+.env
+db.sqlite3
+media/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
